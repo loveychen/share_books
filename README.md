@@ -2,9 +2,7 @@
 
 # 旧书分享计划
 
-大家好, 本人自学生时代起极爱收藏书籍, 囤积了数百本各类书籍. 因家中空间有限, 且不想书籍闲置, 现计划免费赠送部分书籍, 感兴趣者可与我联系. 邮箱 loveychen@live.com.
-
-<div><font color="red">注意: 经济能力有限, 所有书籍邮费诸君自付. </font></div>
+大家好, 本人自学生时代起极爱收藏书籍, 囤积了数百本各类书籍. 因家中空间有限, 且不想书籍闲置, 现将部分优秀书籍转让, 有意者可以联系 15501023053.
 
 
 # 计算机类数据
@@ -25,8 +23,8 @@
 1. 琢石成器: Windows 环境下32位汇编语言程序设计, 罗云彬 著. 可叹大佬身陷囹圄
 1. Python 核心编程(第三版), Wesley Chun 著, 孙波翔 等译
 1. Python 金融大数据分析, Yves Hilpisch 著, 姚军 译
-1. 鸟哥的 Linux 私房菜: 基础学习篇(第三版), 鸟哥 著, 正版
-1. 鸟哥的 Linux 私房菜: 服务器架设篇(第三版), 鸟哥 著, 高质量盗版
+~~1. 鸟哥的 Linux 私房菜: 基础学习篇(第三版), 鸟哥 著, 正版~~
+~~1. 鸟哥的 Linux 私房菜: 服务器架设篇(第三版), 鸟哥 著, 高质量盗版~~
 1. Linux 设备驱动程序(第三版), Jonathan Corbet 等著, 魏永明 等译, 盗版, 有部分笔记
 
 ![G0k2lD.png](https://s1.ax1x.com/2020/04/04/G0k2lD.png)
@@ -41,7 +39,7 @@
 1. 计算机组成与设计: 硬件/软件接口, David A Patterson 等著
 1. 计算机理论导引(第二版), Michael Sipser 著, 唐常杰 等译
 1. 计算机理论基础(第二版), Harry R.Lewis 等著
-1. 并行算法实践, 陈国良 等编著
+~~1. 并行算法实践, 陈国良 等编著~~
 1. 密码编码学与网络安全: 原理与实践(第五版, 英文版), William Stallings 著
 1. 入侵检测技术, 曹元大 主编
 1. 深入理解计算机系统(修订版), Randal E.Bryant 等著, 龚奕利 等译. 高质量盗版
@@ -88,7 +86,7 @@
 
 1. Convex Optimization, Stephen Boyd 等著, 经典凸优化教材
 1. Introduction to Algorithm(第三版), Thomas H. Cormen 等著, 经典巨著 算法导论原版
-1. Machine Learning: A Probabilistic Perspective, Kevin P. Murphy 著, 经典机器学习教材, 硕士期间教材
+~~1. Machine Learning: A Probabilistic Perspective, Kevin P. Murphy 著, 经典机器学习教材, 硕士期间教材~~
 1. Deep Learning, Ian Goodfellow, Yoshua Bengio 等著, 深度学习巨佬之作
 1. Natural Language Annotation for Machine Learning, James Pustejovsky 等著
 1. Mastering Regular Expressions(第三版), Jeffery E.F. Friedl 著, 经典之作 精通正则表达式
