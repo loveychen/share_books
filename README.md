@@ -69,7 +69,7 @@
 1. 云计算与 SOA, David S. Linthicum 著, 马国耀 译
 1. 互联网金融: 框架与实践, 李耀东 等著
 1. 大型分布式网站架构: 设计与实践, 陈康贤 著
-1 Spring 实战(第四版), Craig Walls 著, 张卫滨 译. 大名鼎鼎的 Spring in Action
+1. Spring 实战(第四版), Craig Walls 著, 张卫滨 译. 大名鼎鼎的 Spring in Action
 
 
 
