@@ -83,6 +83,28 @@
 ![G0kNSU.png](https://s1.ax1x.com/2020/04/04/G0kNSU.png)
 
 
+
+## 自印英文原版技术书籍
+
+1. Convex Optimization, Stephen Boyd 等著, 经典凸优化教材
+1. Introduction to Algorithm(第三版), Thomas H. Cormen 等著, 经典巨著 算法导论原版
+1. Machine Learning: A Probabilistic Perspective, Kevin P. Murphy 著, 经典机器学习教材, 硕士期间教材
+1. Deep Learning, Ian Goodfellow, Yoshua Bengio 等著, 深度学习巨佬之作
+1. Natural Language Annotation for Machine Learning, James Pustejovsky 等著
+1. Mastering Regular Expressions(第三版), Jeffery E.F. Friedl 著, 经典之作 精通正则表达式
+1. A First Course in Probability(8th edition), Sheldon Ross 著
+1. Vector calculus, Linear algebra and Differential Forms: A Unified Approach, John Hamal Hubbard 等著
+1. Matrix Computation(4th edition), Gene H. Golub 等著
+1. Linear Algebra and Its Applications(4th edition), David C. Lay 著, 经典教材 线性代数及其应用
+1. The Elements of Statistical Learning(2nd edition), Trevor Hastie 等著, 经典之作
+1. Recommender Systems Handbook, Francesco Ricci 等著
+1. Calculus: Volume I & Volume II (2nd edition), Tom M. Apostol, 经典著作 微积分
+
+
+[![G0ncE4.png](https://s1.ax1x.com/2020/04/04/G0ncE4.png)](https://imgchr.com/i/G0ncE4)
+
+
+
 # 小说及其它
 
 1. 红与黑, 中英对照版
